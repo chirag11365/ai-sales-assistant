@@ -2,7 +2,7 @@
 
 An interactive sales dashboard where you can **ask questions about the data in plain English**. An LLM converts each question into SQL, a safety layer checks it, the query runs on a read-only database, and the answer is explained in simple language. The app can also generate a short set of findings and recommendations from the data.
 
-**Live demo:** [add your Streamlit link here]
+**Live demo:** [https://ai-sales-assistant-8a6pv5temh4zqecmocdl27.streamlit.app/]
 
 ![Dashboard](screenshots/dashboard.png)
 
